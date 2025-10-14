@@ -383,9 +383,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.733468"
-     inkscape:cx="36.387942"
-     inkscape:cy="15.323367"
+     inkscape:zoom="17.489203"
+     inkscape:cx="55.519969"
+     inkscape:cy="14.809137"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -514,8 +514,8 @@
          inkscape:label="star" />
     </g>
     <g
-       id="hover-center-9"
-       transform="matrix(0.02211825,0,0,-0.02211826,47.96021,1117.8188)">
+       id="pressed-center"
+       transform="matrix(0.02211825,0,0,-0.02211836,47.814795,1117.4706)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0"
          id="rect1-1"
@@ -525,7 +525,7 @@
          y="-916.48584"
          ry="455.40277"
          inkscape:label="bg"
-         transform="matrix(1,0,0,-1,-1016.3569,0)" />
+         transform="matrix(1,0,0,-0.99999548,-1009.7825,-15.742578)" />
       <path
          sodipodi:type="star"
          style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
@@ -543,7 +543,7 @@
          d="m 14.110435,1111.0491 0.3608,-10.7107 -16.1666516,11.0302 10.2980203,-2.9667 -15.4861319,-11.9668 6.00372687,8.8772 6.59569553,-18.4261 -6.5875131,8.4531 19.5624959,0.5788 -10.0750338,-3.6529 z"
          inkscape:transform-center-x="0.062680935"
          inkscape:transform-center-y="-0.92682346"
-         transform="matrix(33.745434,0,0,-34.802407,268.97918,38742.74)"
+         transform="matrix(33.745434,0,0,-34.80225,275.55363,38726.822)"
          inkscape:label="star" />
     </g>
     <g
