@@ -416,7 +416,7 @@
          transform="matrix(0,-1,-1,0,0,0)"
          inkscape:label="bg" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:75.5492;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect2"
          width="522.35364"
          height="521.2655"
