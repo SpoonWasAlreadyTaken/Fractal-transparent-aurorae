@@ -384,8 +384,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="17.489203"
-     inkscape:cx="55.519969"
-     inkscape:cy="14.809137"
+     inkscape:cx="36.76554"
+     inkscape:cy="14.122999"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -495,7 +495,7 @@
          transform="matrix(45.211533,0,0,-45.211513,-1151.9977,50538.279)" />
       <path
          sodipodi:type="star"
-         style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
          id="path2-5"
          inkscape:flatsided="false"
          sodipodi:sides="5"
@@ -528,7 +528,7 @@
          transform="matrix(1,0,0,-0.99999548,-1009.7825,-15.742578)" />
       <path
          sodipodi:type="star"
-         style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-dasharray:none"
          id="path2-7"
          inkscape:flatsided="false"
          sodipodi:sides="5"
